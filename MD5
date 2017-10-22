@@ -1,8 +1,9 @@
-447b5fdbdff250c092eed8e78e971ef0 *DESCRIPTION
+56bae1c5ad199ae84a916fa3e8a946f4 *DESCRIPTION
 d337b2a0f2a3579ba47a7b90b1c5c768 *NAMESPACE
-31789e0f70a9ccb653cf576f294d8b3b *R/solve.R
-fa3749150721748f3d24a65f0c58fc2e *R/status_codes.R
-5d658152fb646408771544424e62d565 *R/zzz.R
+b34e556629395995c439a0e3fa302cf4 *R/solve.R
+5cef07ada49551a779fc016f876bd55f *R/status_codes.R
+1ac6d92817a66a543fa08119fb800cad *R/zzz.R
 291472a97d533ef8987daebe13595969 *man/Example_01.Rd
 aaf9923eb73b2486eb2a426f0088d5ad *man/Example_02.Rd
-9ac64c51f6ad26127246bdb1483196eb *tests/test_alabama.R
+414d1378cf308f5b071e203139350daa *man/Example_03.Rd
+d83ccd7630a0c64534d187c1b0ba01a3 *tests/test_alabama.R
