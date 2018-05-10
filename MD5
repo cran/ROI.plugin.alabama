@@ -1,9 +1,10 @@
-56bae1c5ad199ae84a916fa3e8a946f4 *DESCRIPTION
-d337b2a0f2a3579ba47a7b90b1c5c768 *NAMESPACE
-b34e556629395995c439a0e3fa302cf4 *R/solve.R
+81956e2e87ec1c470d178a8b2ed68e47 *DESCRIPTION
+c2f95e8098def1dff0ebc164964d9039 *NAMESPACE
+0aa6904da909ddbc71127650af1d3844 *R/solve.R
 5cef07ada49551a779fc016f876bd55f *R/status_codes.R
-1ac6d92817a66a543fa08119fb800cad *R/zzz.R
-291472a97d533ef8987daebe13595969 *man/Example_01.Rd
+f5f7dbdcc0e5740290e6845893c6afd7 *R/zzz.R
+40fca74f5dcaf7cd36d293233c654251 *man/Example_01.Rd
 aaf9923eb73b2486eb2a426f0088d5ad *man/Example_02.Rd
-414d1378cf308f5b071e203139350daa *man/Example_03.Rd
-d83ccd7630a0c64534d187c1b0ba01a3 *tests/test_alabama.R
+cdf4c187025c942d8368118ca5c1da5b *man/Example_03.Rd
+5285d123f74769d2d7296b501309241a *man/ROI.plugin.alabama-package.Rd
+f1e6508fccb468383a1c8b8296de2049 *tests/test_alabama.R
